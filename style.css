@@ -1,0 +1,18 @@
+h1{
+    color: blueviolet;
+    background: #7e3e18 ;
+}
+.name{
+    color: darkslateblue;
+}
+
+nav ul li 
+
+{
+    display: inline ;
+    margin: 0 10px;
+}
+.contact{
+    background-image:url(https://cdn.pixabay.com/photo/2020/05/04/10/21/background-5128585_1280.jpg);
+  
+}
